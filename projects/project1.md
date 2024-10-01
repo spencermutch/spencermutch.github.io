@@ -3,7 +3,7 @@ layout: page
 title: Project 1
 permalink: /projects/project1/
 ---
-
+Created by: Spencer Mutch, Aman Hossain, and Ubaid Niaz
 For project 1 we were to come up with a software application where the central interaction uses two buttons and only two buttons, such that the application and
 interaction represent some aspect(s) of one of your group members.
 We decided to base the project off of Aman. This teammate is particularly passionate about anime and competitive gaming, so we designed an application that channels these elements. The game we developed is inspired by the classic "Rock, Paper, Scissors" mechanic but with a unique twist to make it more engaging and reflective of the person it represents.
