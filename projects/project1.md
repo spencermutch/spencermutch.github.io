@@ -14,11 +14,14 @@ Player 1 gets to go first, and can click on the buttons on screen to attack. If 
 
 The game ends when either player runs out of hearts.
 
+The image below contains the 10 original concept sketches that I came up with.
 ![Concept Sketeches](/assets/images/conceptsketches-1.png)
 
-![Concept Sketeches](/assets/images/Refined Drawings-1.png)
+This image shows one of the refined sketches I worked on for a potential iteration of our project. This idea used auto battler mechanics and had cards you could earn and use in game.
+![Refined Sketeches 1](/assets/images/RefinedDrawings-1.png)
 
-![Concept Sketeches](/assets/images/A1_Refined_sketches_240920_200823.jpg)
+This image shows a refined sketch that we worked on to create our final project.
+![Refined Sketeches 2](/assets/images/A1_Refined_sketches_240920_200823.jpg)
 
 Video
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=zv2M-zAE97Y" frameborder="0" allowfullscreen></iframe>
