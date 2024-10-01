@@ -18,16 +18,16 @@ The game ends when either player runs out of hearts.
 <br>
 <strong style="font-size: 24px;">Concept Sketches</strong>
 <br>
-The image below contains the 10 original concept sketches that I came up with.
+The image below contains the 10 original concept sketches that I came up with. <br>
 <img src="/assets/images/conceptsketches-1.png" alt="Concept Sketeches" width= "500px">
 
 <br>
 <strong style="font-size: 24px;">Refined Sketches</strong>
 <br>
-This image shows one of the refined sketches I worked on for a potential iteration of our project. This idea used auto battler mechanics and had cards you could earn and use in game.
+This image shows one of the refined sketches I worked on for a potential iteration of our project. This idea used auto battler mechanics and had cards you could earn and use in game. <br>
 <img src="/assets/images/RefinedDrawings-1.png" alt="Refined Sketeches" width= "500px">
 <br>
-This image shows a refined sketch made by one of my teammates that we worked on to create our final project.
+This image shows a refined sketch made by one of my teammates that we worked on to create our final project.<br>
 <img src="/assets/images/A1_Refined_sketches_240920_200823.jpg" alt="Refined Sketeches 2" width= "500px">
 <br>
 <strong style="font-size: 24px;">Write Up:</strong>
