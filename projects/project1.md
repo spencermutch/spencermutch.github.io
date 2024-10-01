@@ -25,9 +25,10 @@ This image shows one of the refined sketches I worked on for a potential iterati
 
 This image shows a refined sketch made by one of my teammates that we worked on to create our final project.
 <img src="/assets/images/A1_Refined_sketches_240920_200823.jpg" alt="Refined Sketeches 2" width= "500px">
-
-<strong style="font-size: 24px;">Write Up</strong>
-Overall Description
+<br>
+<strong style="font-size: 24px;">Write Up:</strong>
+<br>
+**Overall Description**
 Our project centers around a simple two-button game that reflects the competitive nature and gaming interests of one of our group members. This teammate is particularly passionate about anime and competitive gaming, so we designed an application that channels these elements. The game we developed is inspired by the classic "Rock, Paper, Scissors" mechanic but with a unique twist to make it more engaging and reflective of the person it represents.
 
 The game has four interaction options instead of three, with actions labeled as Attack, Parry, Grab, and Block, which align with traditional fighting games. Each action has specific counters and interactions, adding a layer of strategy beyond the usual triangle interaction of Rock, Paper, Scissors. This diamond-shaped interaction captures both the competitive spirit and nostalgia for old-school fighting games that our teammate loves. The characters featured in the game are also pulled from anime and games that were important to our teammate, creating a personal connection to the application.
