@@ -17,6 +17,7 @@ The game ends when either player runs out of hearts.
 <strong style="font-size: 24px;">Concept Sketches</strong>
 The image below contains the 10 original concept sketches that I came up with.
 ![Concept Sketeches](/assets/images/conceptsketches-1.png)
+<img src="/assets/images/conceptsketches-1.png" alt="Concept Sketeches" width= "500px">
 
 <br>
 <strong style="font-size: 24px;">Refined Sketches</strong>
