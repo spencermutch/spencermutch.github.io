@@ -13,3 +13,12 @@ The moves in our game are "Attack, Parry, Grab, and Block. Attack beats block an
 Player 1 gets to go first, and can click on the buttons on screen to attack. If he clicks on attack, his character will throw a punch. If he clicks on parry his character will parry. He can also hold down either of these buttons for the other moves. If he holds down attack, he will instead block, if he holds down parry he will grab.
 
 The game ends when either player runs out of hearts.
+
+![Concept Sketeches](/assets/images/conceptsketches-1.png)
+
+![Concept Sketeches](/assets/images/Refined Drawings-1.png)
+
+![Concept Sketeches](/assets/images/A1_Refined_sketches_240920_200823.jpg)
+
+Video
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=zv2M-zAE97Y" frameborder="0" allowfullscreen></iframe>
