@@ -3,7 +3,8 @@ layout: page
 title: Project 1
 permalink: /projects/project1/
 ---
-Created by: Spencer Mutch, Aman Hossain, and Ubaid Niaz
+**Created by:** Spencer Mutch, Aman Hossain, and Ubaid Niaz
+<br>
 <br>
 For project 1 we were to come up with a software application where the central interaction uses two buttons and only two buttons, such that the application and
 interaction represent some aspect(s) of one of your group members.
@@ -14,16 +15,18 @@ The moves in our game are "Attack, Parry, Grab, and Block. Attack beats block an
 Player 1 gets to go first, and can click on the buttons on screen to attack. If he clicks on attack, his character will throw a punch. If he clicks on parry his character will parry. He can also hold down either of these buttons for the other moves. If he holds down attack, he will instead block, if he holds down parry he will grab.
 
 The game ends when either player runs out of hearts.
-
+<br>
 <strong style="font-size: 24px;">Concept Sketches</strong>
+<br>
 The image below contains the 10 original concept sketches that I came up with.
 <img src="/assets/images/conceptsketches-1.png" alt="Concept Sketeches" width= "500px">
 
 <br>
 <strong style="font-size: 24px;">Refined Sketches</strong>
+<br>
 This image shows one of the refined sketches I worked on for a potential iteration of our project. This idea used auto battler mechanics and had cards you could earn and use in game.
 <img src="/assets/images/RefinedDrawings-1.png" alt="Refined Sketeches" width= "500px">
-
+<br>
 This image shows a refined sketch made by one of my teammates that we worked on to create our final project.
 <img src="/assets/images/A1_Refined_sketches_240920_200823.jpg" alt="Refined Sketeches 2" width= "500px">
 <br>
