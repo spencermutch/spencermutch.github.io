@@ -15,7 +15,7 @@ classes: wide
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
 
 **Created by:** Spencer Mutch, Desmond, and Naheen
-<div class="content">
+<div>
   <b>Phone Sensor Unlock Project:</b>
 <p>
   Our phone unlock system, which we call AngleGuard, utilizes Augmented Reality (AR) to create a unique and secure way to protect your device. To unlock the phone, users must enter AR mode, place a virtual object and view it from a precise distance, orientation and angle.<br>
@@ -24,7 +24,7 @@ With the ability to set multiple angles, distances, heights, and phone orientati
 </p>
 </div>
 
-<div class="content">
+<div class="content>
 <p>
   From our initial sketches, our team looked into various unlock mechanisms, including AR, hand tracking, and device movement. Ultimately, we found the AR "Dance to Unlock" concept was a unique and interesting idea, but we wanted to ensure   it was doable before we started our refined sketches. Our research on different AR platforms revealed a major challenge: foot detection with an AR object (in this case, a dance pad), as most platforms at best support hand detection. We     would also need to utilize depth tracking of some sort since we wanted to have the dance pad appear underneath our feet, whereas most objects in AR space are simply superimposed on top of the real world.
   </p>
@@ -34,7 +34,69 @@ With the ability to set multiple angles, distances, heights, and phone orientati
   <div class="swiper-container">
     <div class="swiper-wrapper">
       <div class="swiper-slide">
-        <a href="/assets/images/desmond.png" data-fancybox="gallery">
+        <a href="/assets/images/cs1.png" data-fancybox="gallery">
+          <img src="/assets/images/cs1.png" alt="Photo 1">
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="/assets/images/cs2.png" data-fancybox="gallery">
+          <img src="/assets/images/cs2.png" alt="Photo 2">
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="/assets/images/cs3.png" data-fancybox="gallery">
+          <img src="/assets/images/cs3.png" alt="Photo 3">
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="/assets/images/cs4.png" data-fancybox="gallery">
+          <img src="/assets/images/cs4.png" alt="Photo 3">
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="/assets/images/cs5.png" data-fancybox="gallery">
+          <img src="/assets/images/cs5.png" alt="Photo 3">
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="/assets/images/cs6.png" data-fancybox="gallery">
+          <img src="/assets/images/cs6.png" alt="Photo 3">
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="/assets/images/cs7.png" data-fancybox="gallery">
+          <img src="/assets/images/cs7.png" alt="Photo 3">
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="/assets/images/cs8.png" data-fancybox="gallery">
+          <img src="/assets/images/cs8.png" alt="Photo 3">
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="/assets/images/cs9.png" data-fancybox="gallery">
+          <img src="/assets/images/cs9.png" alt="Photo 3">
+        </a>
+      </div>
+      <div class="swiper-slide">
+        <a href="/assets/images/cs10.png" data-fancybox="gallery">
+          <img src="/assets/images/cs10.png" alt="Photo 3">
+        </a>
+      </div>
+    </div>
+    <!-- Add Pagination -->
+    <div class="swiper-pagination"></div>
+    <!-- Add Navigation -->
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+  </div>
+</div>
+
+<div class="swiper-wrapper-container">
+  <div class="swiper-container">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <a href="/assets/images/drawing-refined.png" data-fancybox="gallery">
           <img src="/assets/images/drawing-refined.png" alt="Photo 1">
         </a>
         <div class="caption">The is one of my refined sketches for the project, showing how you can unlock the device using the correct orientation, as well as a hand-tracking addition that could be made to the system.</div>
