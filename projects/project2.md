@@ -49,6 +49,7 @@ Test
     width: 100%;
     height: 400px; /* Set desired height */
     overflow: hidden;
+    position: relative;
   }
   .swiper-wrapper {
     display: flex;
@@ -83,11 +84,11 @@ Test
   }
 
   .swiper-button-next {
-    right: 200px; /* Position next button */
+    right: 20px; /* Position next button */
   }
 
   .swiper-button-prev {
-    left: 200px; /* Position prev button */
+    left: 20px; /* Position prev button */
   }
 
   .swiper-pagination {
