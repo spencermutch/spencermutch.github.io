@@ -81,6 +81,8 @@ With the ability to set multiple angles, distances, heights, and phone orientati
     align-items: center;
     width: 100%;
     object-fit: contain;
+    height: auto;
+    max-height: 100%; /* Prevent overflow */
   }
   .swiper-slide img {
     width: 100%; /* Ensure images take full width */
