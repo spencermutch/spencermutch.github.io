@@ -6,6 +6,18 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
+// Ensure the body takes full width and has no margin
+body {
+  margin: 0; /* Remove default body margin */
+  width: 100%; /* Full width */
+}
+
+.container {
+  max-width: 100%; /* Allow full width */
+  width: 100%; /* Set width to 100% */
+  padding: 0; /* Remove any padding */
+}
+
 .swiper-container {
   width: 100%;
   height: 200px; /* Set your desired height */
