@@ -52,6 +52,7 @@ With the ability to set multiple angles, distances, heights, and phone orientati
   .swiper-container {
     width: 500px;
     height: 400px; /* Set desired height */
+    margin: 20px 0;
     position: relative;
   }
   .swiper-wrapper {
