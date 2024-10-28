@@ -20,16 +20,9 @@ classes: wide
 <p>
   Our phone unlock system, which we call AngleGuard, utilizes Augmented Reality (AR) to create a unique and secure way to protect your device. To unlock the phone, users must enter AR mode, place a virtual object and view it from a precise distance, orientation and angle.<br>
 This method ensures that accidental unlocks are prevented by requiring real-world surface detection, which only activates when a flat surface, like a floor or table, is recognized. It also requires a two-step interaction: Placing the AR object, and viewing it from a unique distance and angle.<br>
-With the ability to set multiple angles, distances, heights, and phone orientations as a personalized password, this system offers exceptional security strength while maintaining a small margin of error.
+With the ability to set multiple angles, distances, heights, and phone orientations as a personalized password, this system offers exceptional security strength while maintaining a small margin of error.<br>
+<b>10 Initial Sketches:</b>
 </p>
-</div>
-
-<div class="content">
-  <b>Initial Sketches:</b>
-<p>
-  From our initial sketches, our team looked into various unlock mechanisms, including AR, hand tracking, and device movement. Ultimately, we found the AR "Dance to Unlock" concept was a unique and interesting idea, but we wanted to ensure   it was doable before we started our refined sketches. Our research on different AR platforms revealed a major challenge: foot detection with an AR object (in this case, a dance pad), as most platforms at best support hand detection. We     would also need to utilize depth tracking of some sort since we wanted to have the dance pad appear underneath our feet, whereas most objects in AR space are simply superimposed on top of the real world.
-  </p>
-  <b>10 Initial Sketches:</b>
 </div>
 
 <div class="swiper-wrapper-container">
@@ -92,6 +85,14 @@ With the ability to set multiple angles, distances, heights, and phone orientati
     <div class="swiper-button-next"></div>
     <div class="swiper-button-prev"></div>
   </div>
+</div>
+
+<div class="content">
+  <b>Initial Sketches:</b>
+<p>
+  From our initial sketches, our team looked into various unlock mechanisms, including AR, hand tracking, and device movement. Ultimately, we found the AR "Dance to Unlock" concept was a unique and interesting idea, but we wanted to ensure   it was doable before we started our refined sketches. Our research on different AR platforms revealed a major challenge: foot detection with an AR object (in this case, a dance pad), as most platforms at best support hand detection. We     would also need to utilize depth tracking of some sort since we wanted to have the dance pad appear underneath our feet, whereas most objects in AR space are simply superimposed on top of the real world.
+  </p>
+  
 </div>
 
 <div class="swiper-wrapper-container">
