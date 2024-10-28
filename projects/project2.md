@@ -52,6 +52,10 @@ With the ability to set multiple angles, distances, heights, and phone orientati
 </div>
 
 <style>
+  .content {
+    margin-bottom: 20px;
+  }
+  
   .swiper-wrapper-container {
     display: flex;
     justify-content: center; /* Center horizontally */
