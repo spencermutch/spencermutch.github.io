@@ -138,6 +138,12 @@ With the ability to set multiple angles, distances, heights, and phone orientati
     margin: 20px 0;
     position: relative;
   }
+  .swiper-container2 {
+    width: 300px;
+    height: 500px; /* Set desired height */
+    margin: 20px 0;
+    position: relative;
+  }
   .swiper-wrapper {
     display: flex;
   }
