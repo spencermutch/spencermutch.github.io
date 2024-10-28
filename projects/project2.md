@@ -172,6 +172,9 @@ Given more time we would’ve liked to add a level of customizability to the pro
 </div>
 
 <div>
+  <h2><b>Video Demo:</b></h2>
+
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=v0Yh180LuRk" frameborder="0" allowfullscreen></iframe>
   <p><a href="https://glitch.com/edit/#!/project-2---angleguard">Source Code</a>
   <br>
   <a href="https://project-2---angleguard.glitch.me">Try AngleGuard</a>
