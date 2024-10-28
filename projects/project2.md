@@ -154,9 +154,9 @@ Given more time we would’ve liked to add a level of customizability to the pro
 </p>
 <div>
 
-</div>
-<h2><b>Our Final Product, AngleGuard:</b></h2>
 <div>
+<h2><b>Our Final Product, AngleGuard:</b></h2>
+</div>
 
 <div class="swiper-wrapper-container">
   <div class="swiper-container3">
@@ -169,6 +169,11 @@ Given more time we would’ve liked to add a level of customizability to the pro
       </div>
     </div>
   </div>
+</div>
+
+<div>
+  <a href="https://glitch.com/edit/#!/project-2---angleguard">Source Code</a>
+  <a href="https://project-2---angleguard.glitch.me">Try AngleGuard</a>
 </div>
 
 <style>
