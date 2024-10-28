@@ -88,11 +88,11 @@ With the ability to set multiple angles, distances, heights, and phone orientati
   }
 
   .swiper-button-next {
-    right: 100px; /* Position next button */
+    right: 500px; /* Position next button */
   }
 
   .swiper-button-prev {
-    left: 100px; /* Position prev button */
+    left: 500px; /* Position prev button */
   }
 
   .swiper-pagination {
