@@ -66,7 +66,7 @@ With the ability to set multiple angles, distances, heights, and phone orientati
   .swiper-slide img {
   width: 100%; /* Allow height to adjust based on aspect ratio */
   height: 100%; /* Limit max height to slide height */
-  object-fit: cover; /* Scale the image to fit within the slide */
+  object-fit: contain; /* Scale the image to fit within the slide */
   }
   .caption {
     text-align: center;
