@@ -32,13 +32,13 @@ With the ability to set multiple angles, distances, heights, and phone orientati
         <a href="/assets/images/desmond.png" data-fancybox="gallery">
           <img src="/assets/images/desmond.png" alt="Photo 2">
         </a>
-        <div class="caption">Caption for Image 2</div>
+        <div class="caption">These are some refined sketches made by Desmond, and show the basic idea of our system with various additions, multiple orientations, a timer, etc.</div>
       </div>
       <div class="swiper-slide">
         <a href="/assets/images/Naheen.png" data-fancybox="gallery">
           <img src="/assets/images/Naheen.png" alt="Photo 3">
         </a>
-        <div class="caption">Caption for Image 3</div>
+        <div class="caption">This is a refined sketch made by Naheen, that show how we could place the object, as well as a hand-tracking addition, and a way to provide feedback to the user by making the objkect glow a certain colour when you look at correctly or incorrectly.</div>
       </div>
     </div>
     <!-- Add Pagination -->
