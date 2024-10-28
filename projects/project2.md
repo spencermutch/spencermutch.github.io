@@ -83,15 +83,15 @@ permalink: /projects/project2/
   }
 
   .swiper-button-next {
-    right: -50px; /* Position next button */
+    right: 10px; /* Position next button */
   }
 
   .swiper-button-prev {
-    left: -50px; /* Position prev button */
+    left: 10px; /* Position prev button */
   }
 
   .swiper-pagination {
-    bottom: -30px; /* Position pagination correctly */
+    bottom: 10px; /* Position pagination correctly */
     text-align: center; /* Center pagination indicators */
     position: absolute;
     left: 0;
