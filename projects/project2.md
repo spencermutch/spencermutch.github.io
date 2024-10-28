@@ -97,8 +97,6 @@ With the ability to set multiple angles, distances, heights, and phone orientati
   I suggested we could use our hands to push the pads instead of using our feet, but as a group we felt that this would too closely resemble a standard keypad, just with extra complexity and steps. Terrence suggested we could take pictures of our hands and tape it on top of our shoes as an attempt to make use of hand detection. However, we ultimately recognized that with less than two weeks to learn an AR framework, develop, and test, this idea might be too complex, so we returned to our initial sketches to explore other options. Our group remained interested in using AR in some capacity so we focused on ideas including AR or those that could be translated to AR. The “View to Unlock” idea, an initial sketch made by Desmond, stood out as an idea we all believed was feasible, while still being unique and interesting, and presenting us with a challenge.
   </p>
 <h2>Our Final Idea, AngleGuard:</h2>
-  <img src="/assets/images/Refined_d1finished.png" alt="Photo 1">
-  <div class="caption">A rotoscope I created that shows how AngleGuard works.</div>
 </div>
 
 <div class="swiper-wrapper-container">
