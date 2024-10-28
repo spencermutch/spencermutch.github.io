@@ -83,11 +83,11 @@ permalink: /projects/project2/
   }
 
   .swiper-button-next {
-    right: 10px; /* Position next button */
+    right: 100px; /* Position next button */
   }
 
   .swiper-button-prev {
-    left: 10px; /* Position prev button */
+    left: 100px; /* Position prev button */
   }
 
   .swiper-pagination {
