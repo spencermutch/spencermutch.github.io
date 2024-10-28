@@ -20,35 +20,43 @@ Our phone unlock system, which we call AngleGuard, utilizes Augmented Reality (A
 This method ensures that accidental unlocks are prevented by requiring real-world surface detection, which only activates when a flat surface, like a floor or table, is recognized. It also requires a two-step interaction: Placing the AR object, and viewing it from a unique distance and angle.
 With the ability to set multiple angles, distances, heights, and phone orientations as a personalized password, this system offers exceptional security strength while maintaining a small margin of error.
 </div>
-<div class="swiper-container">
-  <div class="swiper-wrapper">
-    <div class="swiper-slide">
-      <a href="/assets/images/drawing-refined.png" data-fancybox="gallery">
-        <img src="/assets/images/drawing-refined.png" alt="Photo 1">
-      </a>
-      <div class="caption">Caption for Image 1</div>
+
+<div class="swiper-wrapper-container">
+  <div class="swiper-container">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <a href="/assets/images/drawing-refined.png" data-fancybox="gallery">
+          <img src="/assets/images/drawing-refined.png" alt="Photo 1">
+        </a>
+        <div class="caption">Caption for Image 1</div>
+      </div>
+      <div class="swiper-slide">
+        <a href="/assets/images/desmond.png" data-fancybox="gallery">
+          <img src="/assets/images/desmond.png" alt="Photo 2">
+        </a>
+        <div class="caption">Caption for Image 2</div>
+      </div>
+      <div class="swiper-slide">
+        <a href="/assets/images/Naheen.png" data-fancybox="gallery">
+          <img src="/assets/images/Naheen.png" alt="Photo 3">
+        </a>
+        <div class="caption">Caption for Image 3</div>
+      </div>
     </div>
-    <div class="swiper-slide">
-      <a href="/assets/images/desmond.png" data-fancybox="gallery">
-        <img src="/assets/images/desmond.png" alt="Photo 2">
-      </a>
-      <div class="caption">Caption for Image 2</div>
-    </div>
-    <div class="swiper-slide">
-      <a href="/assets/images/Naheen.png" data-fancybox="gallery">
-        <img src="/assets/images/Naheen.png" alt="Photo 3">
-      </a>
-      <div class="caption">Caption for Image 3</div>
-    </div>
+    <!-- Add Pagination -->
+    <div class="swiper-pagination"></div>
+    <!-- Add Navigation -->
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
   </div>
-  <!-- Add Pagination -->
-  <div class="swiper-pagination"></div>
-  <!-- Add Navigation -->
-  <div class="swiper-button-next"></div>
-  <div class="swiper-button-prev"></div>
 </div>
 
 <style>
+  .swiper-wrapper-container {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    width: 100%; /* Make it full width */
+  }
   .swiper-container {
     width: 500px;
     height: 400px; /* Set desired height */
