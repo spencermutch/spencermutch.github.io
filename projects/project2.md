@@ -22,6 +22,10 @@ This method ensures that accidental unlocks are prevented by requiring real-worl
 With the ability to set multiple angles, distances, heights, and phone orientations as a personalized password, this system offers exceptional security strength while maintaining a small margin of error.
 </div>
 
+<div class="content">
+From our initial sketches, our team looked into various unlock mechanisms, including AR, hand tracking, and device movement. Ultimately, we found the AR "Dance to Unlock" concept was a unique and interesting idea, but we wanted to ensure it was doable before we started our refined sketches. Our research on different AR platforms revealed a major challenge: foot detection with an AR object (in this case, a dance pad), as most platforms at best support hand detection. We would also need to utilize depth tracking of some sort since we wanted to have the dance pad appear underneath our feet, whereas most objects in AR space are simply superimposed on top of the real world.
+</div>
+
 <div class="swiper-wrapper-container">
   <div class="swiper-container">
     <div class="swiper-wrapper">
