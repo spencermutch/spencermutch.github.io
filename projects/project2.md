@@ -79,8 +79,8 @@ With the ability to set multiple angles, distances, heights, and phone orientati
         </a>
       </div>
       <div class="swiper-slide">
-        <a href="/assets/images/desmond-concept.png" data-fancybox="gallery">
-          <img src="/assets/images/desmond-concept.jpg" alt="Photo 3">
+        <a href="/assets/images/desmond-concept.PNG" data-fancybox="gallery">
+          <img src="/assets/images/desmond-concept.PNG" alt="Photo 3">
         </a>
       </div>
     </div>
