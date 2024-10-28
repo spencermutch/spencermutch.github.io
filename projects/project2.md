@@ -104,7 +104,7 @@ Test
     new Swiper('.swiper-container', {
       loop: true,
       centeredSlides: true,
-      slidesPerView: 2, // Ensure only one image is visible
+      slidesPerView: 1, // Ensure only one image is visible
       spaceBetween: 0, // Remove space between slides
       navigation: {
         nextEl: '.swiper-button-next',
