@@ -29,6 +29,24 @@ permalink: /projects/project2/
   <div class="swiper-button-prev"></div>
 </div>
 
+<style>
+  .swiper-container {
+    width: 100%;
+    height: 400px; /* Set desired height */
+  }
+  .swiper-slide img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ensures consistent scaling within the slide */
+  }
+  .caption {
+    text-align: center;
+    font-size: 14px;
+    padding: 8px;
+    color: #555;
+  }
+</style>
+
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     new Swiper('.swiper-container', {
