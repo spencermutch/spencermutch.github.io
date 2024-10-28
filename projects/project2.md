@@ -159,7 +159,7 @@ Given more time we would’ve liked to add a level of customizability to the pro
 <div>
 
 <div class="swiper-wrapper-container">
-  <div class="swiper-container">
+  <div class="swiper-container3">
     <div class="swiper-wrapper">
       <div class="swiper-slide">
         <a href="/assets/images/Refined_d1finished.png" data-fancybox="gallery">
@@ -190,7 +190,11 @@ Given more time we would’ve liked to add a level of customizability to the pro
   .swiper-container2 {
     width: 300px;
     height: 500px; /* Set desired height */
-    margin: 20px 0;
+    position: relative;
+  }
+  .swiper-container3 {
+    width: 500px;
+    height: 500px; /* Set desired height */
     position: relative;
   }
   .swiper-wrapper {
