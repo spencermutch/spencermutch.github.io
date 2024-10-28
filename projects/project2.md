@@ -72,6 +72,7 @@ With the ability to set multiple angles, distances, heights, and phone orientati
   }
   .swiper-slide {
     display: flex; /* Use flexbox for centering */
+    flex-direction: column;
     justify-content: center; /* Center content */
     align-items: center; /* Center vertically */
     height: 100%;
