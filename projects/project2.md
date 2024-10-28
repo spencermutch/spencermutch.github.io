@@ -137,7 +137,7 @@ With the ability to set multiple angles, distances, heights, and phone orientati
 <h3><b>Thoughts on the Project::</b></h3>
 <p>
   <b>How the application fits the objective:</b><br>
-The objective for this project was to create a sensor-based interface for a mobile phone that is an alternative to typical unlocks. Our final product aligns with this objective by leveraging multiple phone sensors to create an unlock system that is very unique to any existing methods.<br>:<br>
+The objective for this project was to create a sensor-based interface for a mobile phone that is an alternative to typical unlocks. Our final product aligns with this objective by leveraging multiple phone sensors to create an unlock system that is very unique to any existing methods.<br><br>
 
 <b>How we worked as a team:</b><br>
 Each team member contributed concept sketches, which we then reviewed as a group. Together we discussed which ideas we liked, and the challenges of them. As a group, we decided that AR would be unique and interesting and decided to pursue using that technology. Throughout the project we met up to discuss, and test our project, as well as made frequent online contact to ensure that all of us knew what we should be working on, and if there were any problems.<br><br>
@@ -158,18 +158,7 @@ Given more time we would’ve liked to add a level of customizability to the pro
 <h2><b>Our Final Product, AngleGuard:</b></h2>
 <div>
 
-<div class="swiper-wrapper-container">
-  <div class="swiper-container">
-    <div class="swiper-wrapper">
-      <div class="swiper-slide">
-        <a href="/assets/images/Refined_d1finished.png" data-fancybox="gallery">
-          <img src="/assets/images/Refined_d1finished.png" alt="Photo 1">
-        </a>
-        <div class="caption">A rotoscope I created that shows how AngleGuard works.</div>
-      </div>
-    </div>
-  </div>
-</div>
+
 
 <style>
   .content {
