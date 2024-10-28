@@ -157,7 +157,7 @@ With the ability to set multiple angles, distances, heights, and phone orientati
     height: 100%;
   }
   .swiper-slide a {
-    display: flex;
+    display: relative;
     justify-content: center;
     align-items: center;
     width: 100%;
@@ -172,10 +172,14 @@ With the ability to set multiple angles, distances, heights, and phone orientati
     object-fit: contain; /* Keep aspect ratio */
   }
   .caption {
+    position: absolute;
+    bottom: 0; /* Position it at the bottom of the image */
+    width: 100%;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+    color: #fff;
     text-align: center;
     font-size: 14px;
-    padding: 8px;
-    color: #555;
   }
   /* Adjust button styles */
   .swiper-button-next,
