@@ -48,11 +48,6 @@ Test
   .swiper-container {
     width: 100%;
     height: 400px; /* Set desired height */
-    position: relative;
-  }
-  .swiper-wrapper {
-    display: flex; /* Use flexbox to ensure items center */
-    justify-content: center; /* Center the slides */
   }
   .swiper-slide {
     display: flex; /* Use flexbox for centering */
