@@ -101,15 +101,15 @@ With the ability to set multiple angles, distances, heights, and phone orientati
   }
 
   .swiper-button-next {
-    right: -10px; /* Position next button */
+    right: -30px; /* Position next button */
   }
 
   .swiper-button-prev {
-    left: -10px; /* Position prev button */
+    left: -30px; /* Position prev button */
   }
 
   .swiper-pagination {
-    bottom: -10px; /* Position pagination correctly */
+    bottom: -20px; /* Position pagination correctly */
     text-align: center; /* Center pagination indicators */
     position: absolute;
     left: 0;
@@ -123,7 +123,7 @@ With the ability to set multiple angles, distances, heights, and phone orientati
       loop: true,
       centeredSlides: true,
       slidesPerView: 1, // Ensure only one image is visible
-      spaceBetween: 600, // Remove space between slides
+      spaceBetween: 800, // Remove space between slides
       navigation: {
         nextEl: '.swiper-button-next',
         prevEl: '.swiper-button-prev',
