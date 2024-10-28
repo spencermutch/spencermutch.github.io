@@ -47,6 +47,20 @@ Test
     padding: 8px;
     color: #555;
   }
+  .swiper-button-next,
+  .swiper-button-prev {
+    color: #fff; /* Change arrow color */
+    width: 30px; /* Set width for arrows */
+    height: 30px; /* Set height for arrows */
+    top: 50%; /* Center vertically */
+    transform: translateY(-50%); /* Adjust position */
+  }
+  .swiper-button-next {
+    right: 10px; /* Adjust distance from the right edge */
+  }
+  .swiper-button-prev {
+    left: 10px; /* Adjust distance from the left edge */
+  }
 </style>
 
 <script>
