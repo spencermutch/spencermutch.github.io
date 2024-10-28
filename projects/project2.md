@@ -135,6 +135,27 @@ With the ability to set multiple angles, distances, heights, and phone orientati
 </div>
 
 </div>
+<h3><b>Thoughts on the Project::</b></h3>
+<p>
+  <b>How the application fits the objective:</b><br>
+The objective for this project was to create a sensor-based interface for a mobile phone that is an alternative to typical unlocks. Our final product aligns with this objective by leveraging multiple phone sensors to create an unlock system that is very unique to any existing methods.:<br>:<br>
+
+<b>How we worked as a team:</b><br>
+Each team member contributed concept sketches, which we then reviewed as a group. Together we discussed which ideas we liked, and the challenges of them. As a group, we decided that AR would be unique and interesting and decided to pursue using that technology. Throughout the project we met up to discuss, and test our project, as well as made frequent online contact to ensure that all of us knew what we should be working on, and if there were any problems.:<br>:<br>
+
+<b>What worked:</b><br>
+The effectiveness of using a specific location respective to an AR object surpassed our expectations as a security method. We have found that the password is very difficult to guess, and reliably unlocks when you are in the correct position.:<br>:<br>
+
+<b>What didn’t:</b><br>
+While our unlock method works reliably, we found that sometimes it can be challenging to remember the exact spot in a 3D space that is required to unlock the phone. This led us to slightly increasing the margin of error for unlocking the phone, and we believe we have found a good balance between security and usability.:<br>:<br>
+
+<b>What we would change:</b><br>
+Given more time we would’ve liked to add a level of customizability to the project, such as allowing the user to pick from certain models to use as their AR object. We also would have considered some accessibility options, as this method requires the user to be able to move around a relatively open space, which may not be possible in some situations.:<br>:<br>
+
+</p>
+<div>
+
+</div>
 <h2><b>Our Final Idea, AngleGuard:</b></h2>
 <div>
 
