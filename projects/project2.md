@@ -48,32 +48,51 @@ Test
   .swiper-container {
     width: 100%;
     height: 400px; /* Set desired height */
+    position: relative;
+  }
+  .swiper-wrapper {
+    display: flex; /* Use flexbox to ensure items center */
+    justify-content: center; /* Center the slides */
+  }
+  .swiper-slide {
+    display: flex; /* Use flexbox for centering */
+    justify-content: center; /* Center content */
+    align-items: center; /* Center vertically */
   }
   .swiper-slide img {
   width: 100%;
   height: auto;  /* Allow height to adjust based on aspect ratio */
   max-height: 100%; /* Limit max height to slide height */
   object-fit: contain; /* Scale the image to fit within the slide */
-}
+  }
   .caption {
     text-align: center;
     font-size: 14px;
     padding: 8px;
     color: #555;
   }
+  /* Adjust button styles */
   .swiper-button-next,
   .swiper-button-prev {
-    color: #fff; /* Change arrow color */
-    width: 30px; /* Set width for arrows */
-    height: 30px; /* Set height for arrows */
-    top: 50%; /* Center vertically */
-    transform: translateY(-50%); /* Adjust position */
+    color: #fff;
+    width: 30px;
+    height: 30px;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 10; /* Ensure buttons are on top */
   }
+
   .swiper-button-next {
-    right: 10px; /* Adjust distance from the right edge */
+    right: 10px; /* Position next button */
   }
+
   .swiper-button-prev {
-    left: 10px; /* Adjust distance from the left edge */
+    left: 10px; /* Position prev button */
+  }
+
+  .swiper-pagination {
+    bottom: 10px; /* Position pagination correctly */
+    text-align: center; /* Center pagination indicators */
   }
 </style>
 
