@@ -78,6 +78,11 @@ With the ability to set multiple angles, distances, heights, and phone orientati
           <img src="/assets/images/cs10.jpg" alt="Photo 3">
         </a>
       </div>
+      <div class="swiper-slide">
+        <a href="/assets/images/desmond-concept.jpg" data-fancybox="gallery">
+          <img src="/assets/images/desmond-concept.jpg" alt="Photo 3">
+        </a>
+      </div>
     </div>
     <!-- Add Pagination -->
     <div class="swiper-pagination"></div>
