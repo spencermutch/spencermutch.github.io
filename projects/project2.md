@@ -96,36 +96,9 @@ With the ability to set multiple angles, distances, heights, and phone orientati
   <p>
   I suggested we could use our hands to push the pads instead of using our feet, but as a group we felt that this would too closely resemble a standard keypad, just with extra complexity and steps. Terrence suggested we could take pictures of our hands and tape it on top of our shoes as an attempt to make use of hand detection. However, we ultimately recognized that with less than two weeks to learn an AR framework, develop, and test, this idea might be too complex, so we returned to our initial sketches to explore other options. Our group remained interested in using AR in some capacity so we focused on ideas including AR or those that could be translated to AR. The “View to Unlock” idea, an initial sketch made by Desmond, stood out as an idea we all believed was feasible, while still being unique and interesting, and presenting us with a challenge.
   </p>
-<h2><b>Our Final Idea, AngleGuard:</b></h2>
-</div>
-
-<div class="swiper-wrapper-container">
-  <div class="swiper-container">
-    <div class="swiper-wrapper">
-      <div class="swiper-slide">
-        <a href="/assets/images/Refined_d1finished.png" data-fancybox="gallery">
-          <img src="/assets/images/Refined_d1finished.png" alt="Photo 1">
-        </a>
-        <div class="caption">A rotoscope I created that shows how AngleGuard works.</div>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="content">
-  <b>Initial Sketches:</b>
-<p>
-  From our initial sketches, our team looked into various unlock mechanisms, including AR, hand tracking, and device movement. Ultimately, we found the AR "Dance to Unlock" concept was a unique and interesting idea, but we wanted to ensure   it was doable before we started our refined sketches. Our research on different AR platforms revealed a major challenge: foot detection with an AR object (in this case, a dance pad), as most platforms at best support hand detection. We     would also need to utilize depth tracking of some sort since we wanted to have the dance pad appear underneath our feet, whereas most objects in AR space are simply superimposed on top of the real world. <br><br>
-  </p>
-
-  <p>
-  I suggested we could use our hands to push the pads instead of using our feet, but as a group we felt that this would too closely resemble a standard keypad, just with extra complexity and steps. Terrence suggested we could take pictures of our hands and tape it on top of our shoes as an attempt to make use of hand detection. However, we ultimately recognized that with less than two weeks to learn an AR framework, develop, and test, this idea might be too complex, so we returned to our initial sketches to explore other options. Our group remained interested in using AR in some capacity so we focused on ideas including AR or those that could be translated to AR. <br>
-    Ultimately, the <b>“View to Unlock”</b> idea, an initial sketch made by Desmond, stood out as an idea we all believed was feasible, while still being unique and interesting, and presented us with a challenge.
-  </p>
-<h2>Our Final Idea, AngleGuard:</h2>
-</div>
-
-<div class="swiper-wrapper-container">
+  <h3><b>Refined Sketches:</b></h3>
+  
+  <div class="swiper-wrapper-container">
   <div class="swiper-container">
     <div class="swiper-wrapper">
       <div class="swiper-slide">
@@ -152,6 +125,24 @@ With the ability to set multiple angles, distances, heights, and phone orientati
     <!-- Add Navigation -->
     <div class="swiper-button-next"></div>
     <div class="swiper-button-prev"></div>
+  </div>
+</div>
+</div>
+
+</div>
+<h2><b>Our Final Idea, AngleGuard:</b></h2>
+<div>
+
+<div class="swiper-wrapper-container">
+  <div class="swiper-container">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <a href="/assets/images/Refined_d1finished.png" data-fancybox="gallery">
+          <img src="/assets/images/Refined_d1finished.png" alt="Photo 1">
+        </a>
+        <div class="caption">A rotoscope I created that shows how AngleGuard works.</div>
+      </div>
+    </div>
   </div>
 </div>
 
