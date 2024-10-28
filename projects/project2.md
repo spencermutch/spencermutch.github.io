@@ -25,11 +25,15 @@ Test
       <div class="caption">Caption for Image 1</div>
     </div>
     <div class="swiper-slide">
-      <img src="/assets/images/desmond.png" alt="Photo 2">
+      <a href="/assets/images/desmond.png" data-fancybox="gallery">
+        <img src="/assets/images/desmond.png" alt="Photo 2">
+      </a>
       <div class="caption">Caption for Image 2</div>
     </div>
     <div class="swiper-slide">
-      <img src="/assets/images/Naheen.png" alt="Photo 3">
+      <a href="/assets/images/Naheen.png" data-fancybox="gallery">
+        <img src="/assets/images/Naheen.png" alt="Photo 3">
+      </a>
       <div class="caption">Caption for Image 3</div>
     </div>
   </div>
