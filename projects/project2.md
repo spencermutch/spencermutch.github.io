@@ -72,7 +72,7 @@ With the ability to set multiple angles, distances, heights, and phone orientati
   }
   .swiper-container {
     width: 500px;
-    height: 600px; /* Set desired height */
+    height: 500px; /* Set desired height */
     margin: 20px 0;
     position: relative;
   }
@@ -120,15 +120,15 @@ With the ability to set multiple angles, distances, heights, and phone orientati
   }
 
   .swiper-button-next {
-    right: -50px; /* Position next button */
+    right: -60px; /* Position next button */
   }
 
   .swiper-button-prev {
-    left: -50px; /* Position prev button */
+    left: -60px; /* Position prev button */
   }
 
   .swiper-pagination {
-    bottom: -70px; /* Position pagination correctly */
+    bottom: -120px; /* Position pagination correctly */
     text-align: center; /* Center pagination indicators */
     position: absolute;
     left: 0;
