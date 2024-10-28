@@ -134,7 +134,7 @@ With the ability to set multiple angles, distances, heights, and phone orientati
 </div>
 
 </div>
-<h3><b>Thoughts on the Project::</b></h3>
+<h3><b>Thoughts on the Project:</b></h3>
 <p>
   <b>How the application fits the objective:</b><br>
 The objective for this project was to create a sensor-based interface for a mobile phone that is an alternative to typical unlocks. Our final product aligns with this objective by leveraging multiple phone sensors to create an unlock system that is very unique to any existing methods.<br><br>
@@ -149,7 +149,7 @@ The effectiveness of using a specific location respective to an AR object surpas
 While our unlock method works reliably, we found that sometimes it can be challenging to remember the exact spot in a 3D space that is required to unlock the phone. This led us to slightly increasing the margin of error for unlocking the phone, and we believe we have found a good balance between security and usability.<br><br>
 
 <b>What we would change:</b><br>
-Given more time we would’ve liked to add a level of customizability to the project, such as allowing the user to pick from certain models to use as their AR object. We also would have considered some accessibility options, as this method requires the user to be able to move around a relatively open space, which may not be possible in some situations.<br><br>
+Given more time we would’ve liked to add a level of customizability to the project, such as allowing the user to pick from certain models to use as their AR object. We also would have considered some accessibility options, as this method requires the user to be able to move around a relatively open space, which may not be possible in some situations.
 
 </p>
 <div>
@@ -158,7 +158,18 @@ Given more time we would’ve liked to add a level of customizability to the pro
 <h2><b>Our Final Product, AngleGuard:</b></h2>
 <div>
 
-
+<div class="swiper-wrapper-container">
+  <div class="swiper-container">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <a href="/assets/images/Refined_d1finished.png" data-fancybox="gallery">
+          <img src="/assets/images/Refined_d1finished.png" alt="Photo 1">
+        </a>
+        <div class="caption">A rotoscope I created that shows how AngleGuard works.</div>
+      </div>
+    </div>
+  </div>
+</div>
 
 <style>
   .content {
