@@ -48,6 +48,7 @@ Test
   .swiper-container {
     width: 100%;
     height: 400px; /* Set desired height */
+    overflow: hidden;
   }
   .swiper-wrapper {
     display: flex;
@@ -56,10 +57,10 @@ Test
     display: flex; /* Use flexbox for centering */
     justify-content: center; /* Center content */
     align-items: center; /* Center vertically */
+    height: 100%;
   }
   .swiper-slide img {
-  width: 100%;
-  height: auto;  /* Allow height to adjust based on aspect ratio */
+  max-width: 100%; 
   max-height: 100%; /* Limit max height to slide height */
   object-fit: contain; /* Scale the image to fit within the slide */
   }
@@ -108,11 +109,6 @@ Test
       pagination: {
         el: '.swiper-pagination',
         clickable: true,
-      },
-      grabCursor: true, // Change cursor to grab
-      keyboard: {
-        enabled: true, // Enable keyboard navigation
-        onlyInViewport: false,
       },
     });
     
