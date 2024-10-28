@@ -32,6 +32,7 @@ With the ability to set multiple angles, distances, heights, and phone orientati
         <a href="/assets/images/desmond.png" data-fancybox="gallery">
           <img src="/assets/images/desmond.png" alt="Photo 2">
         </a>
+        <img src="/assets/images/desmond.png" alt="Photo 2">
         <div class="caption">These are some refined sketches made by Desmond, and show the basic idea of our system with various additions, multiple orientations, a timer, etc.</div>
       </div>
       <div class="swiper-slide">
