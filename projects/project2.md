@@ -77,7 +77,7 @@ With the ability to set multiple angles, distances, heights, and phone orientati
     height: 100%;
   }
   .swiper-slide img {
-  object-fit: cover; /* Scale the image to fit within the slide */
+    object-fit: cover; /* Scale the image to fit within the slide */
   }
   .caption {
     text-align: center;
