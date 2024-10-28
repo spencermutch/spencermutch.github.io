@@ -15,7 +15,7 @@ classes: wide
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
 
 **Created by:** Spencer Mutch, Desmond, and Naheen
-<div class="container">
+<div class="content">
 Our phone unlock system, which we call AngleGuard, utilizes Augmented Reality (AR) to create a unique and secure way to protect your device. To unlock the phone, users must enter AR mode, place a virtual object and view it from a precise distance, orientation and angle.
 This method ensures that accidental unlocks are prevented by requiring real-world surface detection, which only activates when a flat surface, like a floor or table, is recognized. It also requires a two-step interaction: Placing the AR object, and viewing it from a unique distance and angle.
 With the ability to set multiple angles, distances, heights, and phone orientations as a personalized password, this system offers exceptional security strength while maintaining a small margin of error.
