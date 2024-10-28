@@ -2,6 +2,7 @@
 layout: page
 title: Project 2
 permalink: /projects/project2/
+classes: wide
 ---
 <!-- Swiper for photo sliding -->
 <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
