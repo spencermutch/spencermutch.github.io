@@ -79,6 +79,7 @@ Test
     top: 50%;
     transform: translateY(-50%);
     z-index: 10; /* Ensure buttons are on top */
+    position: absolute;
   }
 
   .swiper-button-next {
@@ -92,6 +93,9 @@ Test
   .swiper-pagination {
     bottom: 10px; /* Position pagination correctly */
     text-align: center; /* Center pagination indicators */
+    position: absolute;
+    left: 0;
+    right: 0;
   }
 </style>
 
