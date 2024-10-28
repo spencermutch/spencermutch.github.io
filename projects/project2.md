@@ -34,53 +34,53 @@ With the ability to set multiple angles, distances, heights, and phone orientati
   <div class="swiper-container">
     <div class="swiper-wrapper">
       <div class="swiper-slide">
-        <a href="/assets/images/cs1.png" data-fancybox="gallery">
-          <img src="/assets/images/cs1.png" alt="Photo 1">
+        <a href="/assets/images/cs1.jpg" data-fancybox="gallery">
+          <img src="/assets/images/cs1.jpg" alt="Photo 1">
         </a>
       </div>
       <div class="swiper-slide">
-        <a href="/assets/images/cs2.png" data-fancybox="gallery">
-          <img src="/assets/images/cs2.png" alt="Photo 2">
+        <a href="/assets/images/cs2.jpg" data-fancybox="gallery">
+          <img src="/assets/images/cs2.jpg" alt="Photo 2">
         </a>
       </div>
       <div class="swiper-slide">
-        <a href="/assets/images/cs3.png" data-fancybox="gallery">
-          <img src="/assets/images/cs3.png" alt="Photo 3">
+        <a href="/assets/images/cs3.jpg" data-fancybox="gallery">
+          <img src="/assets/images/cs3.jpg" alt="Photo 3">
         </a>
       </div>
       <div class="swiper-slide">
-        <a href="/assets/images/cs4.png" data-fancybox="gallery">
-          <img src="/assets/images/cs4.png" alt="Photo 3">
+        <a href="/assets/images/cs4.jpg" data-fancybox="gallery">
+          <img src="/assets/images/cs4.jpg" alt="Photo 3">
         </a>
       </div>
       <div class="swiper-slide">
-        <a href="/assets/images/cs5.png" data-fancybox="gallery">
-          <img src="/assets/images/cs5.png" alt="Photo 3">
+        <a href="/assets/images/cs5.jpg" data-fancybox="gallery">
+          <img src="/assets/images/cs5.jpg" alt="Photo 3">
         </a>
       </div>
       <div class="swiper-slide">
-        <a href="/assets/images/cs6.png" data-fancybox="gallery">
-          <img src="/assets/images/cs6.png" alt="Photo 3">
+        <a href="/assets/images/cs6.jpg" data-fancybox="gallery">
+          <img src="/assets/images/cs6.jpg" alt="Photo 3">
         </a>
       </div>
       <div class="swiper-slide">
-        <a href="/assets/images/cs7.png" data-fancybox="gallery">
-          <img src="/assets/images/cs7.png" alt="Photo 3">
+        <a href="/assets/images/cs7.jpg" data-fancybox="gallery">
+          <img src="/assets/images/cs7.jpg" alt="Photo 3">
         </a>
       </div>
       <div class="swiper-slide">
-        <a href="/assets/images/cs8.png" data-fancybox="gallery">
-          <img src="/assets/images/cs8.png" alt="Photo 3">
+        <a href="/assets/images/cs8.jpg" data-fancybox="gallery">
+          <img src="/assets/images/cs8.jpg" alt="Photo 3">
         </a>
       </div>
       <div class="swiper-slide">
-        <a href="/assets/images/cs9.png" data-fancybox="gallery">
-          <img src="/assets/images/cs9.png" alt="Photo 3">
+        <a href="/assets/images/cs9.jpg" data-fancybox="gallery">
+          <img src="/assets/images/cs9.jpg" alt="Photo 3">
         </a>
       </div>
       <div class="swiper-slide">
-        <a href="/assets/images/cs10.png" data-fancybox="gallery">
-          <img src="/assets/images/cs10.png" alt="Photo 3">
+        <a href="/assets/images/cs10.jpg" data-fancybox="gallery">
+          <img src="/assets/images/cs10.jpg" alt="Photo 3">
         </a>
       </div>
     </div>
