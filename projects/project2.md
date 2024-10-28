@@ -102,15 +102,15 @@ With the ability to set multiple angles, distances, heights, and phone orientati
   }
 
   .swiper-button-next {
-    right: -30px; /* Position next button */
+    right: -50px; /* Position next button */
   }
 
   .swiper-button-prev {
-    left: -30px; /* Position prev button */
+    left: -50px; /* Position prev button */
   }
 
   .swiper-pagination {
-    bottom: -20px; /* Position pagination correctly */
+    bottom: -70px; /* Position pagination correctly */
     text-align: center; /* Center pagination indicators */
     position: absolute;
     left: 0;
