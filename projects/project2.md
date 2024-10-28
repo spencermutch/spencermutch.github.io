@@ -49,11 +49,6 @@ Test
     width: 100%;
     height: 400px; /* Set desired height */
   }
-  .swiper-slide {
-    display: flex; /* Use flexbox for centering */
-    justify-content: center; /* Center content */
-    align-items: center; /* Center vertically */
-  }
   .swiper-slide img {
   width: 100%;
   height: auto;  /* Allow height to adjust based on aspect ratio */
