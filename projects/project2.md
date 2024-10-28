@@ -83,11 +83,11 @@ Test
   }
 
   .swiper-button-next {
-    right: 10px; /* Position next button */
+    right: 200px; /* Position next button */
   }
 
   .swiper-button-prev {
-    left: 10px; /* Position prev button */
+    left: 200px; /* Position prev button */
   }
 
   .swiper-pagination {
