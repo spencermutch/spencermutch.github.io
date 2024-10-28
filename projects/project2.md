@@ -176,7 +176,6 @@ Given more time we would’ve liked to add a level of customizability to the pro
   <br>
   <a href="https://project-2---angleguard.glitch.me">Try AngleGuard</a>
   </p>
-  <h2><b>Video Demo:</b></h2>
 </div>
 
 <style>
