@@ -3,15 +3,25 @@ layout: page
 title: Project 2
 permalink: /projects/project2/
 ---
+<!-- Swiper for photo sliding -->
 <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
 <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+<!-- Fancybox CSS -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" />
+<!-- jQuery (required for Fancybox) -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<!-- Fancybox JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
+
 **Created by:** Spencer Mutch, Desmond, and Naheen
 Test
 
 <div class="swiper-container">
   <div class="swiper-wrapper">
     <div class="swiper-slide">
-      <img src="/assets/images/drawing-refined.png" alt="Photo 1">
+      <a href="/assets/images/drawing-refined.png" data-fancybox="gallery">
+        <img src="/assets/images/drawing-refined.png" alt="Photo 1">
+      </a>
       <div class="caption">Caption for Image 1</div>
     </div>
     <div class="swiper-slide">
@@ -64,9 +74,11 @@ Test
 </style>
 
 <script>
-  document.addEventListener("DOMContentLoaded", function() {
+  $(document).ready(function() {
+    // Swiper
     new Swiper('.swiper-container', {
       loop: true,
+      centeredSlides: true,
       slidesPerView: 1,
       navigation: {
         nextEl: '.swiper-button-next',
@@ -76,6 +88,14 @@ Test
         el: '.swiper-pagination',
         clickable: true,
       },
+    });
+    
+    // Initialize Fancybox
+    $('[data-fancybox="gallery"]').fancybox({
+      // Optional settings for Fancybox
+      loop: true, // Allow cycling through images
+      transitionEffect: "fade", // Transition effect
+      // Add more options as needed
     });
   });
 </script>
