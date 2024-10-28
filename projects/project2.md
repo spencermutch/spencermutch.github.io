@@ -198,7 +198,7 @@ With the ability to set multiple angles, distances, heights, and phone orientati
   }
 
   .swiper-pagination {
-    bottom: -120px; /* Position pagination correctly */
+    bottom: -300px; /* Position pagination correctly */
     text-align: center; /* Center pagination indicators */
     position: absolute;
     left: 0;
