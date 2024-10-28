@@ -99,7 +99,19 @@ With the ability to set multiple angles, distances, heights, and phone orientati
 <h2>Our Final Idea, AngleGuard:</h2>
   <img src="/assets/images/Refined_d1finished.png" alt="Photo 1">
   <div class="caption">A rotoscope I created that shows how AngleGuard works.</div>
-  
+</div>
+
+<div class="swiper-wrapper-container">
+  <div class="swiper-container">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <a href="/assets/images/Refined_d1finished.png" data-fancybox="gallery">
+          <img src="/assets/images/Refined_d1finished.png" alt="Photo 1">
+        </a>
+        <div class="caption">A rotoscope I created that shows how AngleGuard works.</div>
+      </div>
+    </div>
+  </div>
 </div>
 
 <div class="swiper-wrapper-container">
