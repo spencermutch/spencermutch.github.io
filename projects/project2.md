@@ -75,6 +75,12 @@ With the ability to set multiple angles, distances, heights, and phone orientati
     align-items: center; /* Center vertically */
     height: 100%;
   }
+  .swiper-slide a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
   .swiper-slide img {
     width: 100%; /* Ensure images take full width */
     height: auto;
