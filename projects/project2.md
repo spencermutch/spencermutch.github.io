@@ -98,11 +98,11 @@ Test
 
 <script>
   $(document).ready(function() {
-    // Swiper
     new Swiper('.swiper-container', {
       loop: true,
       centeredSlides: true,
-      slidesPerView: 1,
+      slidesPerView: 1, // Ensure only one image is visible
+      spaceBetween: 0, // Remove space between slides
       navigation: {
         nextEl: '.swiper-button-next',
         prevEl: '.swiper-button-prev',
@@ -115,10 +115,8 @@ Test
     
     // Initialize Fancybox
     $('[data-fancybox="gallery"]').fancybox({
-      // Optional settings for Fancybox
-      loop: true, // Allow cycling through images
-      transitionEffect: "fade", // Transition effect
-      // Add more options as needed
+      loop: true,
+      transitionEffect: "fade",
     });
   });
 </script>
