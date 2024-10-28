@@ -26,7 +26,7 @@ With the ability to set multiple angles, distances, heights, and phone orientati
     <div class="swiper-wrapper">
       <div class="swiper-slide">
         <img src="/assets/images/drawing-refined.png" alt="Photo 1">
-        <div class="caption">The is one of my refined drawings for the project, showing how you can unlock the device using the correct orientation, as well as a hand-tracking addition that could be made to the system.</div>
+        <div class="caption">The is one of my refined sketches for the project, showing how you can unlock the device using the correct orientation, as well as a hand-tracking addition that could be made to the system.</div>
       </div>
       <div class="swiper-slide">
         <a href="/assets/images/desmond.png" data-fancybox="gallery">
