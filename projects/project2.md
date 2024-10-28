@@ -9,9 +9,9 @@ permalink: /projects/project2/
 <div class="glide">
   <div class="glide__track" data-glide-el="track">
     <ul class="glide__slides">
-      <li class="glide__slide"><img src="/assets/images/Refined_d1finished.png" alt="Image 1"></li>
-      <li class="glide__slide"><img src="/assets/images/Refined_d1finished.png" alt="Image 2"></li>
-      <li class="glide__slide"><img src="/assets/images/Refined_d1finished.png" alt="Image 3"></li>
+      <li class="glide__slide"><img src="/assets/images/RefinedDrawings-1.png" alt="Image 1"></li>
+      <li class="glide__slide"><img src="/assets/images/desmond.png" alt="Image 2"></li>
+      <li class="glide__slide"><img src="/assets/images/Naheen.png" alt="Image 3"></li>
     </ul>
   </div>
 </div>
