@@ -171,23 +171,6 @@ As I said above, given more time I would like to find a working solution to use 
 <div>
 
 <div>
-<h2><b>Our Final Product, AngleGuard:</b></h2>
-</div>
-
-<div class="swiper-wrapper-container">
-  <div class="swiper-container3">
-    <div class="swiper-wrapper">
-      <div class="swiper-slide">
-        <a href="/assets/images/Refined_d1finished.png" data-fancybox="gallery">
-          <img src="/assets/images/Refined_d1finished.png" alt="Photo 1">
-        </a>
-        <div class="caption">A rotoscope I created that shows how AngleGuard works.</div>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div>
   <h2><b>Video Demo:</b></h2>
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/5v3-5mwG3Vc?si=nY-shQ7dkPxMsVkZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>" 
