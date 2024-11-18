@@ -166,9 +166,9 @@ As I said above, given more time I would like to find a working solution to use 
   <h2><b>Video Demo:</b></h2>
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/5v3-5mwG3Vc?si=nY-shQ7dkPxMsVkZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>" 
-  <p><a href="https://glitch.com/edit/#!/project-2---angleguard">Source Code</a>
+  <p><a href="https://glitch.com/edit/#!/smart-mirror-581">Source Code</a>
   <br>
-  <a href="https://project-2---angleguard.glitch.me">Try AngleGuard</a>
+  <a href="https://smart-mirror-581.glitch.me">Try Smart Mirror!</a>
   </p>
 </div>
 
