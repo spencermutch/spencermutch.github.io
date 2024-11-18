@@ -96,22 +96,22 @@ With the ability to set multiple angles, distances, heights, and phone orientati
   <p>
   I suggested we could use our hands to push the pads instead of using our feet, but as a group we felt that this would too closely resemble a standard keypad, just with extra complexity and steps. Terrence suggested we could take pictures of our hands and tape it on top of our shoes as an attempt to make use of hand detection. However, we ultimately recognized that with less than two weeks to learn an AR framework, develop, and test, this idea might be too complex, so we returned to our initial sketches to explore other options. Our group remained interested in using AR in some capacity so we focused on ideas including AR or those that could be translated to AR. The “View to Unlock” idea, an initial sketch made by Desmond, stood out as an idea we all believed was feasible, while still being unique and interesting, and presenting us with a challenge.
   </p>
-  <h3><b>Refined Sketches:</b></h3>
+  <h3><b>Storyboard:</b></h3>
   
   <div class="swiper-wrapper-container">
   <div class="swiper-container">
     <div class="swiper-wrapper">
       <div class="swiper-slide">
-        <a href="/assets/images/drawing-refined.png" data-fancybox="gallery">
-          <img src="/assets/images/drawing-refined.png" alt="Photo 1">
+        <a href="/assets/images/sbframe1.png" data-fancybox="gallery">
+          <img src="/assets/images/sbframe1.png" alt="Photo 1">
         </a>
-        <div class="caption">The is one of my refined sketches for the project, showing how you can unlock the device using the correct orientation, as well as a hand-tracking addition that could be made to the system.</div>
+        <div class="caption">Part 1</div>
       </div>
       <div class="swiper-slide">
-        <a href="/assets/images/desmond.png" data-fancybox="gallery">
-          <img src="/assets/images/desmond.png" alt="Photo 2">
+        <a href="/assets/images/sbframe2.png" data-fancybox="gallery">
+          <img src="/assets/images/sbframe2.png" alt="Photo 2">
         </a>
-        <div class="caption">These are some refined sketches made by Desmond, and show the basic idea of our system with various additions, such as multiple orientations, a timer, etc.</div>
+        <div class="caption">Part 2</div>
       </div>
       <div class="swiper-slide">
         <a href="/assets/images/Naheen.png" data-fancybox="gallery">
