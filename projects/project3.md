@@ -224,7 +224,7 @@ Given more time I would like to find a working solution to use machine learning 
   }
   .caption {
     position: absolute;
-    bottom: 10; /* Position it at the bottom of the image */
+    bottom: 1; /* Position it at the bottom of the image */
     width: 100%;
     padding: 10px;
     background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
