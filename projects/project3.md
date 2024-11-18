@@ -17,8 +17,7 @@ classes: wide
 **Created by:** Spencer Mutch
 <div>
   <h2><b>Individual Proxemic Project:</b></h2>
-<p>
-For this assignment, we were tasked with developing an application using proxemics. We had the option to choose from the following categories: <br>
+<p>For this assignment, we were tasked with developing an application using proxemics. We had the option to choose from the following categories: <br>
 
 1. A mobile interface for a “smart” object. Turn a non-smart object into a “smart” object.<br>
 
@@ -32,7 +31,7 @@ I chose to focus on option 2, creating a stationary display that addresses a spe
 
 </p>
 </div>
-
+<h3><b>10 Initial Sketches:</b></h3>
 <div class="swiper-wrapper-container">
   <div class="swiper-container">
     <div class="swiper-wrapper">
@@ -104,7 +103,6 @@ I chose to focus on option 2, creating a stationary display that addresses a spe
 <div class="content">
   <b>Problem</b>
 <p>
-  <p>
   As someone who struggles with mornings, I often find myself waking up in a rush, forgetting things, and feeling generally disorganized. To solve this problem, I designed the <b>Smart Mirror</b>. A mirror that helps the users get ready, while keeping them organized and on schedule.
   </p>
 
