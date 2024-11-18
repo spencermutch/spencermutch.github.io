@@ -202,7 +202,7 @@ Given more time I would like to find a working solution to use machine learning 
     justify-content: center; /* Center content */
     align-items: center; /* Center vertically */
     height: 100%;
-    position: relatice;
+    position: relative;
   }
   .swiper-slide a {
     display: relative;
