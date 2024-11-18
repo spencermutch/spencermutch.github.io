@@ -39,7 +39,6 @@ I chose to focus on option 2, creating a stationary display that addresses a spe
         <a href="/assets/images/con1.png" data-fancybox="gallery">
           <img src="/assets/images/con1.png" alt="Photo 1">
         </a>
-        <div class="caption">Part 1 (Click on Image to Enlarge)</div>
       </div>
       <div class="swiper-slide">
         <a href="/assets/images/con2.png" data-fancybox="gallery">
@@ -144,7 +143,6 @@ By seamlessly integrating into the user’s morning routine, these features ensu
   </div>
 </div>
 
-</div>
 <h3><b>Thoughts on the Project:</b></h3>
 <p>
   <b>How the application fits the objective:</b><br>
@@ -158,7 +156,7 @@ The method I used for distance tracking (estimation based on face tracking), wor
 I would have liked to use machine learning to identify objects instead of using markers, however this added a performance hit to my application and the item recognition wasn’t perfect so I opted to use markers instead. The camera on my laptop also made testing and using the program difficult as the webcam is low quality, and the field of view is very low which makes keeping my face as well as objects I’m trying to check off in the frame difficult.<br><br>
 
 <b>What I would change:</b><br>
-Given more time I would like to find a working solution to use machine learning item recognition instead of markers. I would have also liked to add functionality for multiple users, such as facial recognition so that multiple users could use the mirror and have their own personal schedule and reminders, as well as the functionality to split the mirror into multiple segments so multiple people could use it at the same time.
+Given more time I would like to find a working solution to use machine learning item recognition instead of markers. I would have also liked to add functionality for multiple users, such as facial recognition so that multiple users could use the mirror and have their own personal schedule and reminders, as well as the functionality to split the mirror into multiple segments so multiple people could use it at the same time. Finally, I'd like to change the way distance is measured so that it is more accurate.
 
 </p>
 <div>
@@ -226,7 +224,7 @@ Given more time I would like to find a working solution to use machine learning 
   }
   .caption {
     position: absolute;
-    bottom: 0; /* Position it at the bottom of the image */
+    bottom: 20; /* Position it at the bottom of the image */
     width: 100%;
     padding: 10px;
     background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
