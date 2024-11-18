@@ -16,12 +16,20 @@ classes: wide
 
 **Created by:** Spencer Mutch
 <div>
-  <h1><b>Phone Sensor Unlock Project:</b></h1>
+  <h2><b>Individual Proxemic Project:</b></h2>
 <p>
-  Our phone unlock system, which we call AngleGuard, utilizes Augmented Reality (AR) to create a unique and secure way to protect your device. To unlock the phone, users must enter AR mode, place a virtual object and view it from a precise distance, orientation and angle.<br>
-This method ensures that accidental unlocks are prevented by requiring real-world surface detection, which only activates when a flat surface, like a floor or table, is recognized. It also requires a two-step interaction: Placing the AR object, and viewing it from a unique distance and angle.<br>
-With the ability to set multiple angles, distances, heights, and phone orientations as a personalized password, this system offers exceptional security strength while maintaining a small margin of error.<br><br>
-<b>10 Initial Sketches:</b>
+For this assignment, we were tasked with developing an application using proxemics. We had the option to choose from the following categories: <br>
+
+1. A mobile interface for a “smart” object. Turn a non-smart object into a “smart” object.<br>
+
+2. A stationary display that solves a problem in your home.<br>
+
+3. An application that helps support a multi-person in-person situation.<br>
+
+4. Choose your own idea.<br><br>
+
+I chose to focus on option 2, creating a stationary display that addresses a specific problem in my home, while incorporating elements from option 1.
+
 </p>
 </div>
 
@@ -88,13 +96,28 @@ With the ability to set multiple angles, distances, heights, and phone orientati
 </div>
 
 <div class="content">
-  <b>We have lots of good ideas... But which one should we choose?</b>
+  <b>Which sketch to choose?</b>
 <p>
-  From our initial sketches, our team looked into various unlock mechanisms, including AR, hand tracking, and device movement. Ultimately, we found the AR "Dance to Unlock" concept was a unique and interesting idea, but we wanted to ensure   it was doable before we started our refined sketches. Our research on different AR platforms revealed a major challenge: foot detection with an AR object (in this case, a dance pad), as most platforms at best support hand detection. We     would also need to utilize depth tracking of some sort since we wanted to have the dance pad appear underneath our feet, whereas most objects in AR space are simply superimposed on top of the real world. <br><br>
+  Out of all of my initial sketches, two of them felt as though they addressed real problems in my day to day life, The forgetful sketch, where the application would list off the items you needed to remember, and you needed to take the items away from in front of the camera before you left or the system would alert you, and the wardrobe planner sketch where the mirror would detect the clothing you’re wearing and give tips based on weather. While these were both okay ideas, I still felt as though they didn’t have enough use of proxemics and that their functionality was limited. For these reasons I combined the two into a new idea. <br><br>
   </p>
 
+<div class="content">
+  <b>Problem</b>
+<p>
   <p>
-  I suggested we could use our hands to push the pads instead of using our feet, but as a group we felt that this would too closely resemble a standard keypad, just with extra complexity and steps. Terrence suggested we could take pictures of our hands and tape it on top of our shoes as an attempt to make use of hand detection. However, we ultimately recognized that with less than two weeks to learn an AR framework, develop, and test, this idea might be too complex, so we returned to our initial sketches to explore other options. Our group remained interested in using AR in some capacity so we focused on ideas including AR or those that could be translated to AR. The “View to Unlock” idea, an initial sketch made by Desmond, stood out as an idea we all believed was feasible, while still being unique and interesting, and presenting us with a challenge.
+  As someone who struggles with mornings, I often find myself waking up in a rush, forgetting things, and feeling generally disorganized. To solve this problem, I designed the <b>Smart Mirror</b>. A mirror that helps the users get ready, while keeping them organized and on schedule.
+  </p>
+
+  <div class="content">
+  <h2><b>Smart Mirror</b></h2>
+<p>
+  <p>
+  The Smart Mirror is designed to blend the functionality of a traditional mirror with smart capabilities, helping users stay organized and prepared for the day ahead. While the user is not standing directly in front of the mirror, a tranquil ambient screen covers the surface, displaying useful information such as the date, time, and weather, helping the user prepare for the day ahead. 
+
+When the user approaches and looks at the mirror, it greets them and switches to mirror mode, clearing all non-essential information to ensure the user can focus on getting ready. To help the user stay organized, if they move closer to the mirror, their daily schedule will appear on the screen along with reminders for items they need to bring, like a notebook or water bottle. These reminders initially show as unchecked, and the user can check them off by physically showing the items to the mirror. The mirror identifies and tracks these items using markers. 
+
+By seamlessly integrating into the user’s morning routine, these features ensure that they stay on time, don’t forget any essential items, and always know what's ahead of them for the day, which solves my original problem.
+
   </p>
   <h3><b>Storyboard:</b></h3>
   
@@ -132,19 +155,17 @@ With the ability to set multiple angles, distances, heights, and phone orientati
 <h3><b>Thoughts on the Project:</b></h3>
 <p>
   <b>How the application fits the objective:</b><br>
-The objective for this project was to create a sensor-based interface for a mobile phone that is an alternative to typical unlocks. Our final product aligns with this objective by leveraging multiple phone sensors to create an unlock system that is very unique to any existing methods.<br><br>
-
-<b>How we worked as a team:</b><br>
-Each team member contributed concept sketches, which we then reviewed as a group. Together we discussed which ideas we liked, and the challenges of them. As a group, we decided that AR would be unique and interesting and decided to pursue using that technology. Throughout the project we met up to discuss, and test our project, as well as made frequent online contact to ensure that all of us knew what we should be working on, and if there were any problems.<br><br>
+The objective for this project was to create an application that uses proxemics and in my case, is a stationary display that solves a problem in my home. The problem I chose was that I struggle with mornings and I’m often forgetful and disorganized. My Smart Mirror application solves these problems using multiple proxemic interactions such as distance (To decide which setting to be in, ambient, mirror, or schedule/reminders), Orientation (If the user is looking away from the mirror it goes into ambient mode), and Identity (by recognizing items to check them off in the reminders list).
+<br><br>
 
 <b>What worked:</b><br>
-The effectiveness of using a specific location respective to an AR object surpassed our expectations as a security method. We have found that the password is very difficult to guess, and reliably unlocks when you are in the correct position.<br><br>
+The method I used for distance tracking (estimation based on face tracking), worked surprisingly well for this use case and allows for seamless transitions into the various modes. In the end I was also surprised by just how useful this mirror could actually be for me if I was able to implement it as a finished system in a real mirror. Having all of this useful information in one place works really well.<br><br>
 
 <b>What didn’t:</b><br>
-While our unlock method works reliably, we found that sometimes it can be challenging to remember the exact spot in a 3D space that is required to unlock the phone. This led us to slightly increasing the margin of error for unlocking the phone, and we believe we have found a good balance between security and usability.<br><br>
+I would have liked to use machine learning to identify objects instead of using markers, however this added a performance hit to my application and the item recognition wasn’t perfect so I opted to use markers instead. The camera on my laptop also made testing and using the program difficult as the webcam is low quality, and the field of view is very low which makes keeping my face as well as objects I’m trying to check off in the frame difficult.<br><br>
 
-<b>What we would change:</b><br>
-Given more time we would’ve liked to add a level of customizability to the project, such as allowing the user to pick from certain models to use as their AR object. We also would have considered some accessibility options, as this method requires the user to be able to move around a relatively open space, which may not be possible in some situations.
+<b>What I would change:</b><br>
+As I said above, given more time I would like to find a working solution to use machine learning item recognition instead of markers. I would have also liked to add functionality for multiple users, such as facial recognition so that multiple users could use the mirror and have their own personal schedule and reminders, as well as the functionality to split the mirror into multiple segments so multiple people could use it at the same time.
 
 </p>
 <div>
