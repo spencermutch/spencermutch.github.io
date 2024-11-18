@@ -192,13 +192,9 @@ Given more time I would like to find a working solution to use machine learning 
     height: 500px; /* Set desired height */
     position: relative;
   }
-  .swiper-container3 {
-    width: 500px;
-    height: 500px; /* Set desired height */
-    position: relative;
-  }
+
   .swiper-wrapper {
-    display: relative;
+    display: relative; /* was flex*/
   }
   .swiper-slide {
     display: flex; /* Use flexbox for centering */
@@ -206,6 +202,7 @@ Given more time I would like to find a working solution to use machine learning 
     justify-content: center; /* Center content */
     align-items: center; /* Center vertically */
     height: 100%;
+    position: relatice;
   }
   .swiper-slide a {
     display: relative;
