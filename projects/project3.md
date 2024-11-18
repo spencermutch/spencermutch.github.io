@@ -39,6 +39,7 @@ I chose to focus on option 2, creating a stationary display that addresses a spe
         <a href="/assets/images/con1.png" data-fancybox="gallery">
           <img src="/assets/images/con1.png" alt="Photo 1">
         </a>
+        <div class="caption">Part 1 (Click on Image to Enlarge)</div>
       </div>
       <div class="swiper-slide">
         <a href="/assets/images/con2.png" data-fancybox="gallery">
@@ -126,7 +127,7 @@ By seamlessly integrating into the user’s morning routine, these features ensu
         <a href="/assets/images/sbframe1.png" data-fancybox="gallery">
           <img src="/assets/images/sbframe1.png" alt="Photo 1">
         </a>
-        <div class="caption">Part 1 (CLick on Image to Enlarge)</div>
+        <div class="caption">Part 1 (Click on Image to Enlarge)</div>
       </div>
       <div class="swiper-slide">
         <a href="/assets/images/sbframe2.png" data-fancybox="gallery">
