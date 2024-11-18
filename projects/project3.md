@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project 2
-permalink: /projects/project2/
+title: Project 3
+permalink: /projects/project3/
 classes: wide
 ---
 <!-- Swiper for photo sliding -->
@@ -14,7 +14,7 @@ classes: wide
 <!-- Fancybox JS -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
 
-**Created by:** Spencer Mutch, Desmond, and Naheen
+**Created by:** Spencer Mutch
 <div>
   <h1><b>Phone Sensor Unlock Project:</b></h1>
 <p>
