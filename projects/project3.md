@@ -110,9 +110,9 @@ I chose to focus on option 2, creating a stationary display that addresses a spe
   <h2><b>Smart Mirror</b></h2>
 <p>
   <p>
-  The Smart Mirror is designed to blend the functionality of a traditional mirror with smart capabilities, helping users stay organized and prepared for the day ahead. While the user is not standing directly in front of the mirror, a tranquil ambient screen covers the surface, displaying useful information such as the date, time, and weather, helping the user prepare for the day ahead. 
+  The Smart Mirror is designed to blend the functionality of a traditional mirror with smart capabilities, helping users stay organized and prepared for the day ahead. While the user is not standing directly in front of the mirror, a tranquil ambient screen covers the surface, displaying useful information such as the date, time, and weather, helping the user prepare for the day ahead. <br><br>
 
-When the user approaches and looks at the mirror, it greets them and switches to mirror mode, clearing all non-essential information to ensure the user can focus on getting ready. To help the user stay organized, if they move closer to the mirror, their daily schedule will appear on the screen along with reminders for items they need to bring, like a notebook or water bottle. These reminders initially show as unchecked, and the user can check them off by physically showing the items to the mirror. The mirror identifies and tracks these items using markers. 
+When the user approaches and looks at the mirror, it greets them and switches to mirror mode, clearing all non-essential information to ensure the user can focus on getting ready. To help the user stay organized, if they move closer to the mirror, their daily schedule will appear on the screen along with reminders for items they need to bring, like a notebook or water bottle. These reminders initially show as unchecked, and the user can check them off by physically showing the items to the mirror. The mirror identifies and tracks these items using markers. <br><br>
 
 By seamlessly integrating into the user’s morning routine, these features ensure that they stay on time, don’t forget any essential items, and always know what's ahead of them for the day, which solves my original problem.
 
@@ -126,19 +126,13 @@ By seamlessly integrating into the user’s morning routine, these features ensu
         <a href="/assets/images/sbframe1.png" data-fancybox="gallery">
           <img src="/assets/images/sbframe1.png" alt="Photo 1">
         </a>
-        <div class="caption">Part 1</div>
+        <div class="caption">Part 1 (CLick on Image to Enlarge)</div>
       </div>
       <div class="swiper-slide">
         <a href="/assets/images/sbframe2.png" data-fancybox="gallery">
           <img src="/assets/images/sbframe2.png" alt="Photo 2">
         </a>
         <div class="caption">Part 2</div>
-      </div>
-      <div class="swiper-slide">
-        <a href="/assets/images/Naheen.png" data-fancybox="gallery">
-          <img src="/assets/images/Naheen.png" alt="Photo 3">
-        </a>
-        <div class="caption">This is a refined sketch made by Naheen, that show how we could place the object, as well as a hand-tracking addition, and a way to provide feedback to the user by making the object glow a certain colour when you look at correctly or incorrectly.</div>
       </div>
     </div>
     <!-- Add Pagination -->
