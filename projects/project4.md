@@ -265,7 +265,7 @@ Given more time I would like to find a working solution to use machine learning 
 <script>
   $(document).ready(function() {
     new Swiper('.swiper-container', {
-      loop: true,
+      loop: false,
       centeredSlides: true,
       slidesPerView: 1, // Ensure only one image is visible
       spaceBetween: 0, // Remove space between slides
