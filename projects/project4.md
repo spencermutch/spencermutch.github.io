@@ -268,7 +268,7 @@ Given more time I would like to find a working solution to use machine learning 
       loop: true,
       centeredSlides: true,
       slidesPerView: 1, // Ensure only one image is visible
-      spaceBetween: 800, // Remove space between slides
+      spaceBetween: 0, // Remove space between slides
       navigation: {
         nextEl: '.swiper-button-next',
         prevEl: '.swiper-button-prev',
