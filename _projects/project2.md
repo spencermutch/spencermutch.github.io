@@ -86,10 +86,11 @@ With the ability to set multiple angles, distances, heights, and phone orientati
     </div>
     <!-- Add Pagination -->
     <div class="swiper-pagination"></div>
-    <!-- Add Navigation -->
-    <div class="swiper-button-next"></div>
-    <div class="swiper-button-prev"></div>
+
   </div>
+    <!-- Add Navigation -->
+  <div class="swiper-button-next"></div>
+  <div class="swiper-button-prev"></div>
 </div>
 
 <div class="content">
@@ -125,12 +126,11 @@ With the ability to set multiple angles, distances, heights, and phone orientati
         <div class="caption">This is a refined sketch made by Naheen, that show how we could place the object, as well as a hand-tracking addition, and a way to provide feedback to the user by making the object glow a certain colour when you look at correctly or incorrectly.</div>
       </div>
     </div>
-    <!-- Add Pagination -->
-    <div class="swiper-pagination"></div>
-    <!-- Add Navigation -->
-    <div class="swiper-button-next"></div>
-    <div class="swiper-button-prev"></div>
+    
   </div>
+  <!-- Add Navigation -->
+  <div class="swiper-button-next"></div>
+  <div class="swiper-button-prev"></div>
 </div>
 
 </div>

@@ -88,10 +88,10 @@ I chose to focus on option 2, creating a stationary display that addresses a spe
     </div>
     <!-- Add Pagination -->
     <div class="swiper-pagination"></div>
-    <!-- Add Navigation -->
-    <div class="swiper-button-next"></div>
-    <div class="swiper-button-prev"></div>
   </div>
+    <!-- Add Navigation -->
+  <div class="swiper-button-next"></div>
+  <div class="swiper-button-prev"></div>
 </div>
 
 <div class="content">
@@ -135,10 +135,10 @@ By seamlessly integrating into the user’s morning routine, these features ensu
         <div class="caption">Part 2</div>
       </div>
     </div>
-    <!-- Add Navigation -->
-    <div class="swiper-button-next"></div>
-    <div class="swiper-button-prev"></div>
   </div>
+  <!-- Add Navigation -->
+  <div class="swiper-bu tton-next"></div>
+  <div class="swiper-button-prev"></div>
 </div>
 
 <h3><b>Thoughts on the Project:</b></h3>
