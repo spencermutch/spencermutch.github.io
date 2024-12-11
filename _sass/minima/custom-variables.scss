@@ -1,2 +1,12 @@
 // Placeholder to allow overriding predefined variables smoothly.
 $content-width: 80%;
+/* Exclude navigation arrows by adding a specific override for .nav-arrow links */
+.nav-arrow a {
+    color: white !important;  /* Ensure text is white */
+    text-decoration: none !important;  /* No underline */
+  }
+  
+  .nav-arrow a:hover {
+    color: white !important;  /* Keep text white on hover */
+    text-decoration: none !important;  /* No underline */
+  }

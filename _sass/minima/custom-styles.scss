@@ -1,2 +1,11 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+.nav-arrow a {
+    color: white !important;  /* Ensure text is white */
+    text-decoration: none !important;  /* No underline */
+  }
+  
+  .nav-arrow a:hover {
+    color: white !important;  /* Keep text white on hover */
+    text-decoration: none !important;  /* No underline */
+  }

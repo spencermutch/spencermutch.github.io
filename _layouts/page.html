@@ -11,34 +11,34 @@ layout: base
     {{ content }}
   </div>
 
-</article>
+  {% if page.collection == 'projects' %}
+  <div class="navigation">
+    {% assign all_projects = site.projects | sort: 'title' %}
 
-{% if page.collection == 'projects' %}
-<div class="navigation">
-  {% assign all_projects = site.projects | sort: 'title' %}
-
-  <!-- Find the current project in the sorted list -->
-  {% assign current_index = 0 %}
-  {% for project in all_projects %}
-    {% if project.url == page.url %}
-      {% assign current_index = forloop.index0 %}
+    <!-- Find the current project in the sorted list -->
+    {% assign current_index = 0 %}
+    {% for project in all_projects %}
+      {% if project.url == page.url %}
+        {% assign current_index = forloop.index0 %}
+      {% endif %}
+    {% endfor %}
+    
+    <!-- Previous Project -->
+    {% assign prev_index = current_index | minus: 1 %}
+    {% if prev_index < 0 %}
+      {% assign prev_index = all_projects.size | minus: 1 %}
     {% endif %}
-  {% endfor %}
-  
-  <!-- Previous Project -->
-  {% assign prev_index = current_index | minus: 1 %}
-  {% if prev_index < 0 %}
-    {% assign prev_index = all_projects.size | minus: 1 %}
+    {% assign prev_project = all_projects[prev_index] %}
+    <button class="nav-arrow prev-arrow" data-link="{{ prev_project.url }}">&larr; Previous</button>
+    
+    <!-- Next Project -->
+    {% assign next_index = current_index | plus: 1 %}
+    {% if next_index >= all_projects.size %}
+      {% assign next_index = 0 %}
+    {% endif %}
+    {% assign next_project = all_projects[next_index] %}
+    <button class="nav-arrow next-arrow" data-link="{{ next_project.url }}">Next &rarr;</button>
+  </div>
   {% endif %}
-  {% assign prev_project = all_projects[prev_index] %}
-  <a href="{{ prev_project.url }}" class="nav-arrow prev-arrow">&larr; Previous</a>
-  
-  <!-- Next Project -->
-  {% assign next_index = current_index | plus: 1 %}
-  {% if next_index >= all_projects.size %}
-    {% assign next_index = 0 %}
-  {% endif %}
-  {% assign next_project = all_projects[next_index] %}
-  <a href="{{ next_project.url }}" class="nav-arrow next-arrow">Next &rarr;</a>
-</div>
-{% endif %}
+</article>
+<script src="{{ site.baseurl }}/assets/js/navigation.js"></script>

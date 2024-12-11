@@ -190,25 +190,16 @@ Given more time we would’ve liked to add a level of customizability to the pro
     display: flex;
     justify-content: center; /* Center horizontally */
     overflow: visible;
-    width: 100%; /* Make it full width */
+    position: relative;
   }
   .swiper-container {
-    width: 500px;
+    width: 70%;
     height: 500px; /* Set desired height */
     position: relative;
-  }
-  .swiper-container2 {
-    width: 300px;
-    height: 500px; /* Set desired height */
-    position: relative;
-  }
-  .swiper-container3 {
-    width: 500px;
-    height: 500px; /* Set desired height */
-    position: relative;
+    overflow: hidden;
   }
   .swiper-wrapper {
-    display: flex;
+    display: relative; /* was flex*/
   }
   .swiper-slide {
     display: flex; /* Use flexbox for centering */
@@ -217,15 +208,7 @@ Given more time we would’ve liked to add a level of customizability to the pro
     align-items: center; /* Center vertically */
     height: 100%;
   }
-  .swiper-slide a {
-    display: relative;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    object-fit: contain;
-    height: auto;
-    max-height: 100%; /* Prevent overflow */
-  }
+
   .swiper-slide img {
     width: 100%; /* Ensure images take full width */
     height: auto;
@@ -255,19 +238,17 @@ Given more time we would’ve liked to add a level of customizability to the pro
   }
 
   .swiper-button-next {
-    right: -60px; /* Position next button */
+    right: 10px; /* Position next button */
   }
 
   .swiper-button-prev {
-    left: -60px; /* Position prev button */
+    left: 10px; /* Position prev button */
   }
 
   .swiper-pagination {
     position: absolute;
-    bottom: 100px; /* Position pagination correctly */
     text-align: center; /* Center pagination indicators */
-    left: 0;
-    right: 0;
+
   }
 
   .img {
@@ -282,7 +263,7 @@ Given more time we would’ve liked to add a level of customizability to the pro
       loop: true,
       centeredSlides: true,
       slidesPerView: 1, // Ensure only one image is visible
-      spaceBetween: 800, // Remove space between slides
+      spaceBetween: 80, // Remove space between slides
       navigation: {
         nextEl: '.swiper-button-next',
         prevEl: '.swiper-button-prev',

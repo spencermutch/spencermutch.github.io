@@ -135,8 +135,6 @@ By seamlessly integrating into the user’s morning routine, these features ensu
         <div class="caption">Part 2</div>
       </div>
     </div>
-    <!-- Add Pagination -->
-    <div class="swiper-pagination"></div>
     <!-- Add Navigation -->
     <div class="swiper-button-next"></div>
     <div class="swiper-button-prev"></div>
@@ -180,19 +178,14 @@ Given more time I would like to find a working solution to use machine learning 
     display: flex;
     justify-content: center; /* Center horizontally */
     overflow: visible;
-    width: 100%; /* Make it full width */
+    position: relative;
   }
   .swiper-container {
-    width: 500px;
+    width: 70%;
     height: 500px; /* Set desired height */
     position: relative;
+    overflow: hidden;
   }
-  .swiper-container2 {
-    width: 300px;
-    height: 500px; /* Set desired height */
-    position: relative;
-  }
-
   .swiper-wrapper {
     display: relative; /* was flex*/
   }
@@ -203,15 +196,7 @@ Given more time I would like to find a working solution to use machine learning 
     align-items: center; /* Center vertically */
     height: 100%;
   }
-  .swiper-slide a {
-    display: relative;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    object-fit: contain;
-    height: auto;
-    max-height: 100%; /* Prevent overflow */
-  }
+
   .swiper-slide img {
     width: 100%; /* Ensure images take full width */
     height: auto;
@@ -241,19 +226,17 @@ Given more time I would like to find a working solution to use machine learning 
   }
 
   .swiper-button-next {
-    right: -60px; /* Position next button */
+    right: 10px; /* Position next button */
   }
 
   .swiper-button-prev {
-    left: -60px; /* Position prev button */
+    left: 10px; /* Position prev button */
   }
 
   .swiper-pagination {
     position: absolute;
-    bottom: 100px; /* Position pagination correctly */
     text-align: center; /* Center pagination indicators */
-    left: 0;
-    right: 0;
+
   }
 
   .img {
@@ -268,7 +251,7 @@ Given more time I would like to find a working solution to use machine learning 
       loop: true,
       centeredSlides: true,
       slidesPerView: 1, // Ensure only one image is visible
-      spaceBetween: 800, // Remove space between slides
+      spaceBetween: 80, // Remove space between slides
       navigation: {
         nextEl: '.swiper-button-next',
         prevEl: '.swiper-button-prev',
