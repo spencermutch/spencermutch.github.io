@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project 2
-permalink: /projects/project2/
+title: Group Project 2
+permalink: /projects/groupproject2/
 classes: wide
 ---
 <!-- Swiper for photo sliding -->

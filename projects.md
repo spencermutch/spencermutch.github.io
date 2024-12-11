@@ -6,7 +6,7 @@ permalink: /projects/
 
 Here are some of the projects I've worked on:
 
-- [Project 1](/projects/project1)
-- [Project 2](/projects/project2)
-- [Project 3](/projects/project3)
-- [Project 4](/projects/project4)
+- [Group Project 1](/projects/groupproject1)
+- [Group Project 2](/projects/groupproject2)
+- [Individual Project](/projects/indvproject)
+- [Group Project 3](/projects/groupproject3)

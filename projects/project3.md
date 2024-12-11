@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project 3
-permalink: /projects/project3/
+title: Individual Project
+permalink: /projects/indvproject/
 classes: wide
 ---
 <!-- Swiper for photo sliding -->

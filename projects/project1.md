@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project 1
-permalink: /projects/project1/
+title: Group Project 1
+permalink: /projects/groupproject1/
 ---
 **Created by:** Spencer Mutch, Aman Hossain, and Ubaid Niaz
 <br>
