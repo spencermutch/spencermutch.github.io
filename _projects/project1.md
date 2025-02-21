@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Group Project 1
+title: CPSC 581 Group Project 1
 permalink: /projects/groupproject1/
 ---
 **Created by:** Spencer Mutch, Aman Hossain, and Ubaid Niaz
