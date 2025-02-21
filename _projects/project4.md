@@ -170,7 +170,6 @@ Given another chance to work on this project I would have liked to flesh out the
   <iframe width="560" height="315" src="https://www.youtube.com/embed/NyC3iCy8-hU?si=xx-B5-R7lHgWWTSd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>" 
   <p><a href="https://spencermutch.github.io/assets/downloads/sourcecode_gardenwarfare.ino" download>Source Code Download</a>
   <br>
-  <a href="https://wokwi.com/projects/416655872386791425">Try the simulation! (Online Source Code)</a>
   </p>
 </div>
 
