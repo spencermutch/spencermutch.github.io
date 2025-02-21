@@ -73,7 +73,7 @@ Please take a look at some of my [projects!](/projects/)
     flex-wrap: wrap; /* Allow wrapping to the next row if needed */
     gap: 20px; /* Add spacing between items */
     justify-content: center; /* Center items horizontally */
-    margin: 20px 0; /* Add spacing around the container */
+    margin: 30px 0; /* Add spacing around the container */
   }
 
   .language {
