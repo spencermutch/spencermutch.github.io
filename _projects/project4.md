@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Group Project 3
+title: CPSC 581 Group Project 3
 permalink: /projects/groupproject3/
 classes: wide
 ---
