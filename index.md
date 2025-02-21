@@ -16,12 +16,12 @@ Please take a look at some of my [projects!](/projects/)
 <div class="languages">
 
   <div class="language">
-    <img src="assets/svgs/python-svgrepo-com.svg" alt="JavaScript" width="50" height="50">
+    <img src="assets/svgs/python-svgrepo-com.svg" alt="Python" width="50" height="50">
     <p>Python</p>
   </div>
   <div class="language">
   <!-- Using <img> to display the JavaScript logo -->
-    <img src="assets/svgs/java-svgrepo-com.svg" alt="JavaScript" width="50" height="50">
+    <img src="assets/svgs/java-svgrepo-com.svg" alt="Java" width="50" height="50">
     <p>Java</p>
   </div>
   <div class="language">
@@ -29,35 +29,42 @@ Please take a look at some of my [projects!](/projects/)
     <p>JavaScript</p>
   </div>
   <div class="language">
-    <img src="assets/svgs/c-1.svg" alt="JavaScript" width="50" height="50">
+    <img src="assets/svgs/c-1.svg" alt="C" width="50" height="50">
     <p>C</p>
   </div>
   <div class="language">
-    <img src="assets/svgs/c.svg" alt="JavaScript" width="50" height="50">
+    <img src="assets/svgs/c.svg" alt="C++" width="50" height="50">
     <p>C++</p>
   </div>
   <div class="language">
-    <img src="assets/svgs/c--4.svg" alt="JavaScript" width="50" height="50">
+    <img src="assets/svgs/c--4.svg" alt="C#" width="50" height="50">
     <p>C#</p>
   </div>
   <div class="language">
-    <img src="assets/svgs/html-1.svg" alt="JavaScript" width="50" height="50">
+    <img src="assets/svgs/html-1.svg" alt="HTML" width="50" height="50">
     <p>HTML</p>
   </div>
   <div class="language">
-    <img src="assets/svgs/swift-15.svg" alt="JavaScript" width="50" height="50">
+    <img src="assets/svgs/swift-15.svg" alt="Swift" width="50" height="50">
     <p>Swift</p>
   </div>
   <div class="language">
-    <img src="assets/svgs/kotlin-2.svg" alt="JavaScript" width="50" height="50">
+    <img src="assets/svgs/kotlin-2.svg" alt="Kotlin" width="50" height="50">
     <p>Kotlin</p>
   </div>
   <div class="language">
-    <img src="assets/svgs/visual-studio-code-1.svg" alt="JavaScript" width="50" height="50">
+    <img src="assets/svgs/visual-studio-code-1.svg" alt="VisualStudio" width="50" height="50">
     <p>Visual Studio</p>
   </div>
+  <div class="language">
+    <img src="assets/svgs/tensorflow-svgrepo-com.svg" alt="TensorFlow" width="50" height="50">
+    <p>TensorFlow</p>
+  </div>
+  <div class="language">
+    <img src="assets/svgs/haskell-svgrepo-com.svg" alt="Haskell" width="50" height="50">
+    <p>Haskell</p>
+  </div>
 
-<!-- Add more languages as needed -->
 </div>
 
 <style>
