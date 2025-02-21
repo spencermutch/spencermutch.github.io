@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Individual Project
+title: CPSC 581 Individual Project
 permalink: /projects/indvproject/
 classes: wide
 ---
